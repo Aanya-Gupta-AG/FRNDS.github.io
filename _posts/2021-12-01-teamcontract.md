@@ -7,8 +7,6 @@ share-img: /assets/img/Screenshot 2021-12-06 at 12.39.55 PM.png
 tags: [Team, Outline, Rules]
 ---
 
-# Outline:
-
 **Preliminary Information: Who is in the team, what are their schedules like, any extracurricular commitments requiring extra time, what are everyone’s skill sets, what are people’s general goals with respect to this course and project?**
 
 This team consists of Aanya, Aashna, and Jacob
