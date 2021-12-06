@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Team Contract Outline
-cover-img: /assets/img/Screenshot 2021-12-06 at 1.28.19 PM.png
+cover-img: /assets/img/Screenshot 2021-12-06 at 1.36.36 PM.png
 thumbnail-img: /assets/img/Screenshot 2021-12-06 at 12.39.55 PM
 share-img: /assets/img/Screenshot 2021-12-06 at 12.39.55 PM
 tags: [Team, Outline, Rules]
