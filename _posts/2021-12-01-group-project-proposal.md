@@ -2,8 +2,8 @@
 layout: post
 title: Group Project Proposal
 cover-img: /assets/img/Screenshot 2021-12-06 at 1.34.30 PM.png
-thumbnail-img: /assets/img/Screenshot 2021-12-06 at 12.39.55 PM
-share-img: /assets/img/Screenshot 2021-12-06 at 12.39.55 PM
+thumbnail-img: /assets/img/Screenshot 2021-12-06 at 12.39.55 PM.png
+share-img: /assets/img/Screenshot 2021-12-06 at 12.39.55 PM.png
 tags: [Proposal, FRNDS, Ideas]
 ---
 
