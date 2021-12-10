@@ -13,4 +13,4 @@ From the interview, I learnt that Unicorn had an established group of friends th
 
 I did not encounter any difficulties while conducting this interview, as they were very cooperative in answering the questions! :)
 
-For our future inquiries, we will generally follow the same protocol as this one, however, we will ask more follow up questions depending on their answers in order to get a deeper understanding on their answer. We had a plan of questions we wanted to ask them, however it could be less rigid next time. 
+For our future inquiries, we will generally follow the same protocol as this one, however, we will ask more follow up questions depending on their answers in order to get a deeper understanding on their answer. We had a plan of questions we wanted to ask them, however it could be less rigid next time.
