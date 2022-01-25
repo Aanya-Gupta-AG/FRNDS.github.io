@@ -7,6 +7,8 @@ share-img: /assets/img/Screenshot 2021-12-06 at 12.39.55 PM.png
 tags: [Task, Friends, Analysis]
 ---
 
+Using our affinity diagram and the observations we made during our contextual inquiries, we came up with six tasks that our potential users should be/are doing that relate to our topic: integrating ninth graders into the HM high school community. All tasks are ones that students do to some extent, but we would seek to better accomplish these tasks for more people through our app. The tasks range in difficulty for our app to accomplish depending on time, comfortability, and frequency. Accordingly, they are labeled as easy, medium, or hard, or possibly somewhere between two of those levels. 
+
 **Task 1: Make new friends with old and new students**
 
 Student life revolves around friend groups, whether students hang out with friends during frees, lunch, classes, and more. Having friends, especially a good friend group, means that you establish at least a friendly dynamic with a group of people, which can help you meet new people, navigate classes, and support you emotionally. Students coming into the high school, both new and old, have to navigate the new social life, whether it be adjusting to the friend group changes that result from new students coming into the school or just trying to make new friends and find people who have similar interests to you. 
