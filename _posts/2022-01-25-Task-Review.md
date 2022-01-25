@@ -22,11 +22,11 @@ When students come into the high school, they are generally unaware of the resou
 
 At Horace Mann, we make it very easy to join extracurriculars. There are dozens of clubs, almost all of which are willing to accept anyone that joins. However, many students that are new to HM, or even just new to the Upper Division, don't understand why it is important to join clubs, sports teams, or other extracurriculars. Not only are there benefits like furthering your interests, but it is the opportunity to meet like-minded people that have similar interests. The task that we would be trying to accomplish is to encourage students that are new to HM to join extracurriculars. This task is deceptively difficult: the school already encourages students to join extracurriculars, and promote it with the Clubs Fair, and yet many students still don't choose to follow this advice. When designing our app, we should try to better understand why these students don't follow the advice given by the school and teachers, and how we can push them in the right direction. 
 
-**Task 4: Get adjusted to their classes** (Medium - hard)
+**Task 4: Get adjusted to their classes** (Medium - Hard)
 
 When students come into the high school, the classes and expectations are completely different than they were in the Horace Mann Middle Division or likely were at other middle schools. It can be difficult for students to adjust to this, especially as they try to simultaneously navigate their academic and extracurricular experiences. 
 
-**Task 5: Meet with their teachers** (Easy-Medium)
+**Task 5: Meet with their teachers** (Easy - Medium)
 
 Teachers often have expectations for students to meet with them no matter how they are doing in their classes, but ninth graders aren’t always aware of this. When a student is struggling, they often know to talk with the teacher, but teachers can appreciate when students check-in without getting a bad grade first. It is important to develop relationships with teachers, so that students trust that teacher and become more comfortable going to meet with that teacher if they are having trouble with the class. It can also be intimidating for ninth graders to email their students and request meetings with teachers, especially if its the beginning of the year and they don’t know their teachers very well. Our task will be to help students get to better know their teachers, and encourage them to set up meetings. 
  
