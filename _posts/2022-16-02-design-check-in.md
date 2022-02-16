@@ -7,6 +7,8 @@ share-img: /assets/img/Screenshot 2021-12-06 at 12.39.55 PM.png
 tags: [Website, Design, Layout]
 ---
 
+**Edited Task Review**
+
 Using our affinity diagram and the observations we made during our contextual inquiries, we came up with six tasks that our potential users should be/are doing that relate to our topic: integrating ninth graders into the HM high school community. All tasks are ones that students do to some extent, but we would seek to better accomplish these tasks for more people through our app. The tasks range in difficulty for our app to accomplish depending on time, comfortability, and frequency. Accordingly, they are labeled as easy, medium, or hard, or possibly somewhere between two of those levels. 
 
 Task 1: Make new friends **(Hard)**
@@ -46,7 +48,11 @@ It is a well-known fact that Horace Mann students will often sacrifice a healthy
 
 For new students trying to balance the extreme obligations of high school, as well as getting adjusted to high school life, they will often develop sleep habits that are much worse than those they had in middle school. Furthermore, it isn’t uncommon for students to skip lunch to get work done – one thing we noted in our FOTW was that students in Lutnick would often sit on their laptops for the whole period and would also often leave full sandwiches or other large chunks of food there. We saw students sacrificing their mental and physical health for the sake of schoolwork, choosing to not eat to get work done. That being said, creating healthy sleep and eating habits is more difficult than it sounds. They aren't called habits without reason, as they can be quite difficult to break. We want to encourage students to break bad habits, and provide them with tips and resources to do so, but we can't make the change for them, and that is what makes this a medium-hard task. Essentially, our app would have the task of encouraging students, but especially students new to the high school, to develop solid habits that will last not just throughout high school, but their lifetime. 
 
+**Now onto the Design...**
+
 Design 1:
+
+![design1](/assets/img/2022-02-16 13-18 1.pdf)
 
 This design is a website that will teach new and old students about the high school, faculty, tips and advice, and much more. 
 
@@ -65,6 +71,8 @@ Make new friends - Forums allow for students to remain anonymous if they choose,
 Get Adjusted to Classes, Make New Friends, Develop Healthy Sleep and Eating Habits - These are all different tasks, but we have grouped them together because we are presenting information about them in similar ways. We have experts testify about the best way to get adjusted to classes, to sleep and eat healthily, and to make friends. We also give an example of a resource we could provide regarding this issue, in this case, how to schedule a meeting with Guidance and Counseling under the "make friends at HM" section.
 
 Design 2:
+
+![design1](/assets/img/Screen Shot 2022-02-16 at 1.08.43 PM.jpeg)
 
 This design is another webpage or app that has tips on how to succeed at Horace Mann. The idea of our app is to help Horace Mann Students have a better high school experience with a focus on community engagement, whether that be amongst students, between students and teachers, or any other groups of people at Horace Mann. 
 
@@ -85,6 +93,8 @@ Meet with Teachers - We show students the benefits of meeting with teachers in t
 Get Adjusted to Classes, Make New Friends, Develop Healthy Sleep and Eating Habits - These are all different tasks, but we have grouped them together because we are presenting information about them in similar ways. We have experts testify about the best way to get adjusted to classes, to sleep and eat healthily, and to make friends. We also give an example of a resource we could provide regarding this issue, in this case, how to schedule a meeting with Guidance and Counseling under the "make friends at HM" section.
 
 Design 3:
+
+![design3](/assets/img/IMG_0686.jpeg)
 
 This last design will be like a website with links to different sections based on what exactly the user is there for. It will include lots of colors to make it more exciting and less like a boring lecture on how to be a better student. 
 
