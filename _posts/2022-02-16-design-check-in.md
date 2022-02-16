@@ -48,6 +48,10 @@ It is a well-known fact that Horace Mann students will often sacrifice a healthy
 
 For new students trying to balance the extreme obligations of high school, as well as getting adjusted to high school life, they will often develop sleep habits that are much worse than those they had in middle school. Furthermore, it isn’t uncommon for students to skip lunch to get work done – one thing we noted in our FOTW was that students in Lutnick would often sit on their laptops for the whole period and would also often leave full sandwiches or other large chunks of food there. We saw students sacrificing their mental and physical health for the sake of schoolwork, choosing to not eat to get work done. That being said, creating healthy sleep and eating habits is more difficult than it sounds. They aren't called habits without reason, as they can be quite difficult to break. We want to encourage students to break bad habits, and provide them with tips and resources to do so, but we can't make the change for them, and that is what makes this a medium-hard task. Essentially, our app would have the task of encouraging students, but especially students new to the high school, to develop solid habits that will last not just throughout high school, but their lifetime. 
 
+**Affinity Diagram**
+
+![design1](/assets/img/IMG_3644.jpeg)
+
 **Now onto the Design...**
 
 Design 1:
