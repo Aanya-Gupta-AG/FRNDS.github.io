@@ -50,7 +50,7 @@ For new students trying to balance the extreme obligations of high school, as we
 
 **Affinity Diagram**
 
-![design1](assets/img/IMG_3644.jpeg)
+![design1](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/205e73371239cf55d0eddd2592826bceb642a562/assets/img/IMG_3644.jpeg)
 
 **Now onto the Design...**
 
@@ -76,7 +76,7 @@ Get Adjusted to Classes, Make New Friends, Develop Healthy Sleep and Eating Habi
 
 Design 2:
 
-![design1](assets/img/Screen Shot 2022-02-16 at 1.08.43 PM.jpeg)
+![design1](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/205e73371239cf55d0eddd2592826bceb642a562/assets/img/Screen%20Shot%202022-02-16%20at%201.08.43%20PM.jpeg)
 
 This design is another webpage or app that has tips on how to succeed at Horace Mann. The idea of our app is to help Horace Mann Students have a better high school experience with a focus on community engagement, whether that be amongst students, between students and teachers, or any other groups of people at Horace Mann. 
 
@@ -98,7 +98,7 @@ Get Adjusted to Classes, Make New Friends, Develop Healthy Sleep and Eating Habi
 
 Design 3:
 
-![design3](../assets/img/IMG_0686.jpeg)
+![design3](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/205e73371239cf55d0eddd2592826bceb642a562/assets/img/IMG_0686.jpeg)
 
 This last design will be like a website with links to different sections based on what exactly the user is there for. It will include lots of colors to make it more exciting and less like a boring lecture on how to be a better student. 
 
