@@ -76,7 +76,7 @@ Get Adjusted to Classes, Make New Friends, Develop Healthy Sleep and Eating Habi
 
 Design 2:
 
-![design1](../assets/img/Screen Shot 2022-02-16 at 1.08.43 PM.jpeg)
+![design1](assets/img/Screen Shot 2022-02-16 at 1.08.43 PM.jpeg)
 
 This design is another webpage or app that has tips on how to succeed at Horace Mann. The idea of our app is to help Horace Mann Students have a better high school experience with a focus on community engagement, whether that be amongst students, between students and teachers, or any other groups of people at Horace Mann. 
 
