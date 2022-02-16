@@ -50,13 +50,13 @@ For new students trying to balance the extreme obligations of high school, as we
 
 **Affinity Diagram**
 
-![design1](../assets/img/IMG_3644.jpeg)
+![design1](assets/img/IMG_3644.jpeg)
 
 **Now onto the Design...**
 
 Design 1:
 
-![design1](../assets/img/2022-02-16 13-18 1.pdf)
+![design1](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/5033c21f0227abcff57f11dde1670ad0843b4785/assets/img/2022-02-16%2013-18%201.pdf)
 
 This design is a website that will teach new and old students about the high school, faculty, tips and advice, and much more. 
 
