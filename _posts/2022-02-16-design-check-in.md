@@ -64,7 +64,7 @@ In order to do so, this website involves many interactive pages such as blog pos
 
 Another feature this website will have is moderated public chat forums where students can ask questions which moderators or upperclassmen can then answer. (Note: These forums will follow Horace Mann Community Values and Norms with a no toleration policy for anything against them). Public forums promote community engagement and because they will be anonymous, students who may have trouble asking questions will be able to do so in a free and caring environment. 
 
-The tasks that this design accomplishes is: 
+The tasks that this design accomplishes are: 
 
 Learn More About and Utilize Resources Offered in the High School - To help students learn more about the resources offered in the high school, we have grouped them under different tabs. For example, students can click on the tab called "Access Databases," and it will provide them with a link to the HM Library database webpage. 
 
@@ -82,19 +82,19 @@ This design is another webpage or app that has tips on how to succeed at Horace 
 
 Something we learned from our contextual interview with a new student and with the Guidance and Counseling people is that students are given tons of information when they come into Horace Mann about how to have success in high school. This can come in the form of HMO classes, things that advisors are told to tell their advisees, or just tips that students get from deans, teachers, or other adults. 
 
-This design aims to provide students with many resources in one place. This has tips about resources in the high school, extracurriculars, meeting with teachers, as well as an expert panel on some health and school related issues, along with a discussion board for students to ask each other questions. 
+This design aims to provide students with many resources in one place. This has tips about extracurriculars, meeting with teachers, as well as an expert panel on some school related issues.  
 
 In general, this design hopes to foster a more successful high school environment by improving the mental and physical health and academic and social lives of students. 
 
 Below, we will describe the specific tasks that this design accomplishes:
 
-Learn More About and Utilize Resources Offered in the High School - To help students learn more about the resources offered in the high school, we have grouped them under different tabs. For example, students can click on the tab called "Access Databases," and it will provide them with a link to the HM Library database webpage. 
+Utilize Resources Offered in the High School - To help students learn more about the resources offered in the high school, we have grouped them under different tabs. For example, students can click on the tab called "Access Databases," and it will provide them with a link to the HM Library database webpage. 
 
 Join Extracurriculars - We provide information about why joining extracurriculars is so important in the form of videos from former students. Also, we show types of extracurriculars, and under each of those tabs, will likely have a list with descriptions for each.
 
 Meet with Teachers - We show students the benefits of meeting with teachers in the form of testimony from an upperclassman, and tell them when to schedule a meeting, how to ask for a meeting, how to act, and when teachers are available. 
 
-Get Adjusted to Classes, Make New Friends, Develop Healthy Sleep and Eating Habits - These are all different tasks, but we have grouped them together because we are presenting information about them in similar ways. We have experts testify about the best way to get adjusted to classes, to sleep and eat healthily, and to make friends. We also give an example of a resource we could provide regarding this issue, in this case, how to schedule a meeting with Guidance and Counseling under the "make friends at HM" section.
+Get Adjusted to Classes - We have experts testify about the best way to get adjusted to classes, and we can use the information from our contextual inquiry to help students settle in as easily as possible. We also give an example of a resource we could provide regarding this issue, in this case, how to schedule a meeting with Guidance and Counseling under the "make friends at HM" section.
 
 Design 3:
 
