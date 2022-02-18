@@ -50,13 +50,13 @@ For new students trying to balance the extreme obligations of high school, as we
 
 **Affinity Diagram**
 
-![design1](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/205e73371239cf55d0eddd2592826bceb642a562/assets/img/IMG_3644.jpeg)
+![design1](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/205e73371239cf55d0eddd2592826bceb642a562/assets/img/IMG_3644.jpeg?raw=true)
 
 **Now onto the Design...**
 
 Design 1:
 
-![design1](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/5033c21f0227abcff57f11dde1670ad0843b4785/assets/img/2022-02-16%2013-18%201.pdf)
+![design1](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/5033c21f0227abcff57f11dde1670ad0843b4785/assets/img/2022-02-16%2013-18%201.pdf?raw=true)
 
 This design is a website that will teach new and old students about the high school, faculty, tips and advice, and much more. 
 
@@ -76,7 +76,7 @@ Get Adjusted to Classes, Make New Friends, Develop Healthy Sleep and Eating Habi
 
 Design 2:
 
-![design1](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/205e73371239cf55d0eddd2592826bceb642a562/assets/img/Screen%20Shot%202022-02-16%20at%201.08.43%20PM.jpeg)
+![design1](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/205e73371239cf55d0eddd2592826bceb642a562/assets/img/Screen%20Shot%202022-02-16%20at%201.08.43%20PM.jpeg?raw=true)
 
 This design is another webpage or app that has tips on how to succeed at Horace Mann. The idea of our app is to help Horace Mann Students have a better high school experience with a focus on community engagement, whether that be amongst students, between students and teachers, or any other groups of people at Horace Mann. 
 
@@ -98,7 +98,7 @@ Get Adjusted to Classes - We have experts testify about the best way to get adju
 
 Design 3:
 
-![design3](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/205e73371239cf55d0eddd2592826bceb642a562/assets/img/IMG_0686.jpeg)
+![design3](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/205e73371239cf55d0eddd2592826bceb642a562/assets/img/IMG_0686.jpeg?raw=true)
 
 This last design will be like a website with links to different sections based on what exactly the user is there for. It will include lots of colors to make it more exciting and less like a boring lecture on how to be a better student. 
 
