@@ -65,11 +65,11 @@ To take our website to the next level, we would need to continue the process of 
 
 **Appendix:**
 
-[Group Project Proposal](https://appdev-cliquesproject.github.io/FRNDS.github.io/2021-12-01-group-project-proposal/)
-[Team Contract Outline](https://appdev-cliquesproject.github.io/FRNDS.github.io/2021-12-01-teamcontract/)
-[Contextual Inquiry and Write-Up](https://appdev-cliquesproject.github.io/FRNDS.github.io/2021-12-10-contextual-inquiry/)
-[Task Review](https://appdev-cliquesproject.github.io/FRNDS.github.io/2022-01-25-Task-Review/)
-[Design Check-In](https://appdev-cliquesproject.github.io/FRNDS.github.io/2022-02-16-design-check-in/)
-[Usability Testing Lab Part 1](https://appdev-cliquesproject.github.io/FRNDS.github.io/2022-03-04-Usability-Testing-Lab/)
-[Usability Testing Lab Part 2](https://appdev-cliquesproject.github.io/FRNDS.github.io/2022-04-07-usability-testing-lab/)
-[Beta Version Github Stack Proposal](https://appdev-cliquesproject.github.io/FRNDS.github.io/2022-04-27-beta-stack-proposal/)
+* [Group Project Proposal](https://appdev-cliquesproject.github.io/FRNDS.github.io/2021-12-01-group-project-proposal/)
+* [Team Contract Outline](https://appdev-cliquesproject.github.io/FRNDS.github.io/2021-12-01-teamcontract/)
+* [Contextual Inquiry and Write-Up](https://appdev-cliquesproject.github.io/FRNDS.github.io/2021-12-10-contextual-inquiry/)
+* [Task Review](https://appdev-cliquesproject.github.io/FRNDS.github.io/2022-01-25-Task-Review/)
+* [Design Check-In](https://appdev-cliquesproject.github.io/FRNDS.github.io/2022-02-16-design-check-in/)
+* [Usability Testing Lab Part 1](https://appdev-cliquesproject.github.io/FRNDS.github.io/2022-03-04-Usability-Testing-Lab/)
+* [Usability Testing Lab Part 2](https://appdev-cliquesproject.github.io/FRNDS.github.io/2022-04-07-usability-testing-lab/)
+* [Beta Version Github Stack Proposal](https://appdev-cliquesproject.github.io/FRNDS.github.io/2022-04-27-beta-stack-proposal/)
