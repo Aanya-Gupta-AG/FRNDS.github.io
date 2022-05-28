@@ -33,7 +33,9 @@ Throughout these Contextual Inquiries, we reformed our process to get a better i
 
 **Initial Paper Prototype:**
 
-In our initial prototype, the two tasks we were trying to accomplish were accessing the resources of the high school and thriving, not just surviving in school. Though we made a paper prototype, since it was relatively easy to make a medium-fidelity digital prototype on Figma. Our Figma mirrored the real website in terms of layout and the ability to click between pages, and was really only different in that we did not include all of the text and more intricate details of each web page. This is the prototype we used for our Usability Testing. Our initial prototype did not really accomplish the two tasks, considering that the actual information on the website comes from the text that we didn't incorporate into that design, but we did create the website structure that we would use to accomplish our two tasks. 
+![DesignOnPaper](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/master/assets/img/IMG_0709.jpeg?raw=true)
+
+In our initial prototype, the two tasks we were trying to accomplish were accessing the resources of the high school and thriving, not just surviving in school. Though we made a paper prototype, since it was relatively easy to make a medium-fidelity digital prototype on Figma. [Click on this to access our figma prototype](https://www.figma.com/file/iTRQvZIWKDPfq9G4Zbl4DV/Prototype-1?node-id=0%3A1). Our Figma mirrored the real website in terms of layout and the ability to click between pages, and was really only different in that we did not include all of the text and more intricate details of each web page. This is the prototype we used for our Usability Testing. Our initial prototype did not really accomplish the two tasks, considering that the actual information on the website comes from the text that we didn't incorporate into that design, but we did create the website structure that we would use to accomplish our two tasks. 
 
 **Usability Testing Process and Results:**
 
@@ -73,3 +75,30 @@ To take our website to the next level, we would need to continue the process of 
 * [Usability Testing Lab Part 1](https://appdev-cliquesproject.github.io/FRNDS.github.io/2022-03-04-Usability-Testing-Lab/)
 * [Usability Testing Lab Part 2](https://appdev-cliquesproject.github.io/FRNDS.github.io/2022-04-07-usability-testing-lab/)
 * [Beta Version Github Stack Proposal](https://appdev-cliquesproject.github.io/FRNDS.github.io/2022-04-27-beta-stack-proposal/)
+
+**Extra Diagrams**
+
+Affinity Diagram:
+
+![design1](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/205e73371239cf55d0eddd2592826bceb642a562/assets/img/IMG_3644.jpeg?raw=true)
+
+Website Design 1:
+
+![design1](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/8e0ae8b29cb24ab84ce43a862e9dc38d0726e602/assets/img/Screenshot%202022-05-28%20at%2012.05.04%20AM.png)
+
+Website Design 2:
+
+![design1](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/205e73371239cf55d0eddd2592826bceb642a562/assets/img/Screen%20Shot%202022-02-16%20at%201.08.43%20PM.jpeg?raw=true)
+
+Website Design 3:
+
+![design3](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/205e73371239cf55d0eddd2592826bceb642a562/assets/img/IMG_0686.jpeg?raw=true)
+
+Figma Pages:
+
+![Design1](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/c92329f3eb76e770e2fa5f812d87e7bd6d9aca7a/assets/img/Screenshot%202022-04-07%20at%2010.01.12%20PM.png)
+![Design2](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/c92329f3eb76e770e2fa5f812d87e7bd6d9aca7a/assets/img/Screenshot%202022-04-07%20at%2010.02.21%20PM.png)
+![Design3](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/c92329f3eb76e770e2fa5f812d87e7bd6d9aca7a/assets/img/Screenshot%202022-04-07%20at%2010.16.16%20PM.png)
+![Design4](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/c92329f3eb76e770e2fa5f812d87e7bd6d9aca7a/assets/img/Screenshot%202022-04-07%20at%2010.01.48%20PM.png)
+![Design5](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/c92329f3eb76e770e2fa5f812d87e7bd6d9aca7a/assets/img/Screenshot%202022-04-07%20at%2010.02.07%20PM.png)
+![Design6](https://github.com/APPDEV-CLIQUESPROJECT/FRNDS.github.io/blob/c92329f3eb76e770e2fa5f812d87e7bd6d9aca7a/assets/img/Screenshot%202022-04-07%20at%2010.01.59%20PM.png)
